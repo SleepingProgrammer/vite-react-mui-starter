@@ -1,6 +1,6 @@
 # Vite React MUI Boilerplate
 
-This is a boilerplate project for kickstarting your web application development using Vite, React, and Material-UI (MUI) also includes Material .
+This is a boilerplate project for kickstarting your web application development using Vite, React, and Material-UI (MUI) also includes Material icons.
 
 ## Features
 
